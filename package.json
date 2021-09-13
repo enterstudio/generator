@@ -33,7 +33,7 @@
   },
   "dependencies": {
     "async": "^2.0.0",
-    "chalk": "^1.0.0",
+    "chalk": "^2.0.0",
     "class-extend": "^0.1.0",
     "cli-table": "^0.3.1",
     "cross-spawn": "^4.0.0",
@@ -61,7 +61,7 @@
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
     "user-home": "^2.0.0",
-    "yeoman-environment": "^1.1.0"
+    "yeoman-environment": "^2.0.0"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
