@@ -57,7 +57,7 @@
     "read-pkg-up": "^1.0.1",
     "rimraf": "^2.2.0",
     "run-async": "^2.0.0",
-    "shelljs": "^0.7.0",
+    "shelljs": "^0.8.5",
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
     "user-home": "^2.0.0",
