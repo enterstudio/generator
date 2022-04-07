@@ -32,7 +32,7 @@
     "prepublish": "gulp prepublish"
   },
   "dependencies": {
-    "async": "^2.0.0",
+    "async": "^3.2.2",
     "chalk": "^1.0.0",
     "class-extend": "^0.1.0",
     "cli-table": "^0.3.1",
