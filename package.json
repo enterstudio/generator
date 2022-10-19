@@ -43,7 +43,7 @@
     "detect-conflict": "^1.0.0",
     "error": "^7.0.2",
     "find-up": "^1.0.0",
-    "github-username": "^2.0.0",
+    "github-username": "^6.0.0",
     "glob": "^7.0.3",
     "istextorbinary": "^2.1.0",
     "lodash": "^4.11.1",
