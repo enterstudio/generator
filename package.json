@@ -39,7 +39,7 @@
     "cross-spawn": "^4.0.0",
     "dargs": "^4.0.0",
     "dateformat": "^1.0.11",
-    "debug": "^2.1.0",
+    "debug": "^3.1.0",
     "detect-conflict": "^1.0.0",
     "error": "^7.0.2",
     "find-up": "^1.0.0",
@@ -61,7 +61,7 @@
     "text-table": "^0.2.0",
     "through2": "^2.0.0",
     "user-home": "^2.0.0",
-    "yeoman-environment": "^1.1.0"
+    "yeoman-environment": "^2.0.4"
   },
   "devDependencies": {
     "gulp": "^3.6.0",
